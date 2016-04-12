@@ -1,5 +1,5 @@
 /* YAHOO JP AMP JS */
-var ahoojp;
+var Yahoojp;
 ! function(i) {
     var e;
     ! function(i) {
