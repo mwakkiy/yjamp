@@ -1,6 +1,3 @@
 
-var yjtest = function(data){
-	// console.log("YJADS:", data);
-	document.write("YJADS");
-};
-yjtest();
+yads_ad_ds = yahoojpParam.yadsid || "";
+document.write("<script src='https://yads.c.yimg.jp/js/yads.js'></script>");
