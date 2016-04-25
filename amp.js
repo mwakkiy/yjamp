@@ -7,8 +7,8 @@ console.log("window.context.canonicalUrl", window.context.canonicalUrl);
 console.log("yahoojpParam", yahoojpParam);
 
 yads_ad_ds = yahoojpParam.yadsid || "";
-yads_page_url = "http%3A%2F%2Fstudio-ponta.com";
-yads_ref_url = "http%3A%2F%2Fstudio-ponta.com/index.amp.html";
+yads_page_url = "http://app.studio-ponta.com";
+yads_ref_url = "http://app.studio-ponta.com/index.amp.html";
 document.write("<script src='https://yads.c.yimg.jp/js/yads.js'></script>");
 
 
